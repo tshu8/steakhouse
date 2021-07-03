@@ -1,0 +1,16 @@
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\bin\Debug\GroupSteakHouseProject.exe.config
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\bin\Debug\GroupSteakHouseProject.exe
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\bin\Debug\GroupSteakHouseProject.pdb
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.Properties.Resources.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.csproj.GenerateResource.cache
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.csproj.CoreCompileInputs.cache
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.exe
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.pdb
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.frmChange.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.frmCustomer.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.frmLogin.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.frmMenu.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.frmOrder.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.frmSignUp.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.frmView.resources
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\GroupSteakHouseProject\GroupSteakHouseProject\obj\Debug\GroupSteakHouseProject.csproj.AssemblyReference.cache
